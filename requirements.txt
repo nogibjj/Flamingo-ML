@@ -4,3 +4,5 @@ datasets
 torchtext
 tqdm
 matplotlib
+yfinance
+pandas
