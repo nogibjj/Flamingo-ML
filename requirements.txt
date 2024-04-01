@@ -7,3 +7,4 @@ matplotlib
 yfinance
 pandas
 finnhub-python
+transformers
